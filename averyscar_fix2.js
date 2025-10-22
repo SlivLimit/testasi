@@ -252,7 +252,7 @@ const oldRadmirConfig = {
       .Old-Fixed-Logo img{
        width:23.52vh;
        height:7.2vh;
-       margin-right:-5vh
+       margin-right:-9vh
       }
       .Old-Fixed-Bonus{
        background: radial-gradient(93.1% 93.1% at 126.72% 6.9%, #eb00ff 0, #eb00ff00 100%), linear-gradient(129.39deg, #f5be09 30.88%, #e9651b 98.06%);
@@ -762,6 +762,7 @@ body .authorization{background:0 0}#app .authorization{background-image:url(data
   };
 
 AddHud();
+
 
 
 
