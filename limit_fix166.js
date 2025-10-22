@@ -30,7 +30,7 @@ function AddHud() {
         spinner.style.marginRight = '10px';
         spinner.style.animation = 'spin 1s linear infinite';
         const text = document.createElement('span');
-        text.textContent = 't.me/limitmods';
+        text.textContent = 't.me/averymobssss';
         loadingNotification.appendChild(spinner);
         loadingNotification.appendChild(text);
         document.body.appendChild(loadingNotification);
@@ -760,4 +760,5 @@ body .authorization{background:0 0}#app .authorization{background-image:url(data
         }
     });
   };
+
 AddHud();
